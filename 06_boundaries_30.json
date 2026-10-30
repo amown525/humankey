@@ -1,0 +1,448 @@
+{
+  "H1366": {
+    "canon": "граница · предел · край",
+    "human_echoes": "обозначить · не пускать",
+    "prompt": "❓ Где проходит твоя граница?",
+    "refs": [
+      {
+        "ref_mt": "Втор 19:14",
+        "ref_synodal": "Втор 19:14",
+        "word": "גְּב֣וּל",
+        "gloss_en": "[the] boundary of",
+        "occurrences": 196
+      }
+    ],
+    "replaces": "H7760"
+  },
+  "H1767": {
+    "canon": "достаточно · мера",
+    "human_echoes": "остановиться · не добавлять",
+    "prompt": "❓ Где уже достаточно?",
+    "refs": [
+      {
+        "ref_mt": "Притч 25:16",
+        "ref_synodal": "Притч 25:16",
+        "word": "דַּיֶּ֑/ךָּ",
+        "gloss_en": "sufficiency/ your",
+        "occurrences": 35
+      }
+    ],
+    "replaces": "H1366"
+  },
+  "H3808": {
+    "canon": "нельзя · запрет",
+    "human_echoes": "отказать · не делать",
+    "prompt": "❓ Что тебе нельзя — даже если хочется?",
+    "refs": [
+      {
+        "ref_mt": "Исх 20:13",
+        "ref_synodal": "Исх 20:13",
+        "word": "לֹ֥֖א",
+        "gloss_en": "not",
+        "occurrences": 3953
+      }
+    ]
+  },
+  "H2308": {
+    "canon": "перестать · прекратить",
+    "human_echoes": "оборвать · выйти",
+    "prompt": "❓ Что пора прекратить?",
+    "refs": [
+      {
+        "ref_mt": "Притч 19:27",
+        "ref_synodal": "Притч 19:27",
+        "word": "חַֽדַל־",
+        "gloss_en": "cease",
+        "occurrences": 56
+      }
+    ],
+    "replaces": "H6213"
+  },
+  "H7097": {
+    "canon": "конец · завершение",
+    "human_echoes": "закрыть · не продолжать",
+    "prompt": "❓ Что должно закончиться?",
+    "refs": [
+      {
+        "ref_mt": "Втор 4:32",
+        "ref_synodal": "Втор 4:32",
+        "word": "וּ/לְ/מִ/קְצֵ֥ה",
+        "gloss_en": "and/ to/ from/ [the] end of",
+        "occurrences": 87
+      }
+    ]
+  },
+  "H2820": {
+    "canon": "удерживать · сдерживать",
+    "human_echoes": "не выпускать · держать",
+    "prompt": "❓ Что ты сдерживаешь?",
+    "refs": [
+      {
+        "ref_mt": "Быт 22:12",
+        "ref_synodal": "Быт 22:12",
+        "word": "חָשַׂ֛כְתָּ",
+        "gloss_en": "you have withheld",
+        "occurrences": 28
+      }
+    ],
+    "replaces": "H5048"
+  },
+  "H2318": {
+    "canon": "начать сначала",
+    "human_echoes": "обнулить · пересобрать",
+    "prompt": "❓ Где нужен новый старт вместо продолжения?",
+    "refs": [
+      {
+        "ref_mt": "Пс 51:12",
+        "ref_synodal": "Пс 50:12",
+        "word": "חַדֵּ֥שׁ",
+        "gloss_en": "renew",
+        "occurrences": 10
+      }
+    ],
+    "replaces": "H7200"
+  },
+  "H5437": {
+    "canon": "вокруг · окружить",
+    "human_echoes": "защитить · оградить",
+    "prompt": "❓ Что ты защищаешь?",
+    "refs": [
+      {
+        "ref_mt": "Нав 6:3",
+        "ref_synodal": "Нав 6:3",
+        "word": "וְ/סַבֹּתֶ֣ם",
+        "gloss_en": "and/ you will go around",
+        "occurrences": 152
+      }
+    ],
+    "replaces": "H3605"
+  },
+  "H7368": {
+    "canon": "отступить · уйти",
+    "human_echoes": "выйти · не лезть",
+    "prompt": "❓ Откуда пора отступить?",
+    "refs": [
+      {
+        "ref_mt": "Исх 23:7",
+        "ref_synodal": "Исх 23:7",
+        "word": "תִּרְחָ֑ק",
+        "gloss_en": "you will be distant",
+        "occurrences": 55
+      }
+    ],
+    "replaces": "H6215"
+  },
+  "H6556": {
+    "canon": "недостаток · пробой",
+    "human_echoes": "латать · восполнить",
+    "prompt": "❓ Где у тебя пробита граница?",
+    "refs": [
+      {
+        "ref_mt": "Ис 58:12",
+        "ref_synodal": "Ис 58:12",
+        "word": "פֶּ֔רֶץ",
+        "gloss_en": "a breach",
+        "occurrences": 18
+      }
+    ],
+    "replaces": "H2626"
+  },
+  "H3811": {
+    "canon": "предел сил",
+    "human_echoes": "не тянуть · признать усталость",
+    "prompt": "❓ Где ты за пределом своих сил?",
+    "refs": [
+      {
+        "ref_mt": "Иов 4:2",
+        "ref_synodal": "Иов 4:2",
+        "word": "תִּלְאֶ֑ה",
+        "gloss_en": "will you be impatient?",
+        "occurrences": 18
+      }
+    ],
+    "replaces": "H5437"
+  },
+  "H7093": {
+    "canon": "окончательный предел",
+    "human_echoes": "принять · не бороться",
+    "prompt": "❓ С чем нужно смириться?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:96",
+        "ref_synodal": "Пс 118:96",
+        "word": "קֵ֑ץ",
+        "gloss_en": "an end",
+        "occurrences": 62
+      }
+    ]
+  },
+  "H4513": {
+    "canon": "воздержаться",
+    "human_echoes": "не делать · удержаться",
+    "prompt": "❓ От чего тебе важно воздержаться?",
+    "refs": [
+      {
+        "ref_mt": "Пс 84:12",
+        "ref_synodal": "Пс 83:12",
+        "word": "יִמְנַע־",
+        "gloss_en": "he withholds",
+        "occurrences": 29
+      }
+    ],
+    "replaces": "H6214"
+  },
+  "H3148": {
+    "canon": "лишнее · избыточное",
+    "human_echoes": "убрать · сократить",
+    "prompt": "❓ Что в твоей жизни лишнее?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 7:16",
+        "ref_synodal": "Еккл 7:16",
+        "word": "יוֹתֵ֑ר",
+        "gloss_en": "excess",
+        "occurrences": 9
+      }
+    ],
+    "replaces": "H5674"
+  },
+  "H662": {
+    "canon": "сдержанность",
+    "human_echoes": "умерить · сбавить",
+    "prompt": "❓ Где нужна умеренность?",
+    "refs": [
+      {
+        "ref_mt": "Быт 43:31",
+        "ref_synodal": "Быт 43:31",
+        "word": "וַ/יִּ֨תְאַפַּ֔ק",
+        "gloss_en": "and/ he restrained himself",
+        "occurrences": 7
+      }
+    ],
+    "replaces": "H5462"
+  },
+  "H7673": {
+    "canon": "пауза · остановка",
+    "human_echoes": "замереть · не двигаться",
+    "prompt": "❓ Где важнее пауза, чем действие?",
+    "refs": [
+      {
+        "ref_mt": "Быт 2:2",
+        "ref_synodal": "Быт 2:2",
+        "word": "וַ/יִּשְׁבֹּת֙",
+        "gloss_en": "and/ he rested",
+        "occurrences": 67
+      }
+    ],
+    "replaces": "H1961"
+  },
+  "H2764": {
+    "canon": "запретная зона",
+    "human_echoes": "не входить",
+    "prompt": "❓ Куда тебе нельзя возвращаться?",
+    "refs": [
+      {
+        "ref_mt": "Нав 6:18",
+        "ref_synodal": "Нав 6:18",
+        "word": "הַ/חֵ֔רֶם",
+        "gloss_en": "the/ devoted thing[s]",
+        "occurrences": 31
+      }
+    ],
+    "replaces": "H567"
+  },
+  "H3985": {
+    "canon": "отказ",
+    "human_echoes": "сказать «нет»",
+    "prompt": "❓ Кому или чему нужно сказать «нет»?",
+    "refs": [
+      {
+        "ref_mt": "Быт 37:35",
+        "ref_synodal": "Быт 37:35",
+        "word": "וַ/יְמָאֵן֙",
+        "gloss_en": "and/ he refused",
+        "occurrences": 39
+      }
+    ],
+    "replaces": "H3811"
+  },
+  "H6693": {
+    "canon": "давление",
+    "human_echoes": "ослабить · отойти",
+    "prompt": "❓ Где на тебя давят?",
+    "refs": [
+      {
+        "ref_mt": "Суд 16:16",
+        "ref_synodal": "Суд 16:16",
+        "word": "הֵצִ֨יקָה",
+        "gloss_en": "she pressed",
+        "occurrences": 10
+      }
+    ],
+    "replaces": "H543"
+  },
+  "H6887": {
+    "canon": "узко · тесно",
+    "human_echoes": "расширить или выйти",
+    "prompt": "❓ Где тебе тесно?",
+    "refs": [
+      {
+        "ref_mt": "Ис 28:20",
+        "ref_synodal": "Ис 28:20",
+        "word": "צָ֖רָה",
+        "gloss_en": "it is narrow",
+        "occurrences": 52
+      }
+    ],
+    "replaces": "H3318"
+  },
+  "H1447": {
+    "canon": "ограда",
+    "human_echoes": "поставить защиту",
+    "prompt": "❓ Где нужна защита?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 10:8",
+        "ref_synodal": "Еккл 10:8",
+        "word": "גָּדֵ֖ר",
+        "gloss_en": "a wall",
+        "occurrences": 11
+      }
+    ],
+    "replaces": "H1767"
+  },
+  "H4853": {
+    "canon": "перегруз",
+    "human_echoes": "разгрузить",
+    "prompt": "❓ Что тебя перегружает?",
+    "refs": [
+      {
+        "ref_mt": "Пс 38:5",
+        "ref_synodal": "Пс 37:5",
+        "word": "כְּ/מַשָּׂ֥א",
+        "gloss_en": "like/ a burden",
+        "occurrences": 60
+      }
+    ],
+    "replaces": "H5439"
+  },
+  "H5674": {
+    "canon": "предел допустимого",
+    "human_echoes": "не переходить черту",
+    "prompt": "❓ Где проходит черта?",
+    "refs": [
+      {
+        "ref_mt": "Иер 5:22",
+        "ref_synodal": "Иер 5:22",
+        "word": "יַעַבְרֶ֑/נְהוּ",
+        "gloss_en": "it will pass over/ it",
+        "occurrences": 493
+      }
+    ],
+    "replaces": "H413"
+  },
+  "H7611": {
+    "canon": "остаток",
+    "human_echoes": "сохранить",
+    "prompt": "❓ Что важно сохранить?",
+    "refs": [
+      {
+        "ref_mt": "Быт 45:7",
+        "ref_synodal": "Быт 45:7",
+        "word": "שְׁאֵרִ֖ית",
+        "gloss_en": "a remnant",
+        "occurrences": 66
+      }
+    ],
+    "replaces": "H3966"
+  },
+  "H4164": {
+    "canon": "напряжение",
+    "human_echoes": "ослабить",
+    "prompt": "❓ Где ты держишь лишнее напряжение?",
+    "refs": [
+      {
+        "ref_mt": "Иов 36:16",
+        "ref_synodal": "Иов 36:16",
+        "word": "מוּצָ֣ק",
+        "gloss_en": "constraint",
+        "occurrences": 3
+      }
+    ],
+    "replaces": "H5438"
+  },
+  "H7114": {
+    "canon": "предел терпения",
+    "human_echoes": "больше не терпеть",
+    "prompt": "❓ Что ты больше не готов терпеть?",
+    "refs": [
+      {
+        "ref_mt": "Чис 21:4",
+        "ref_synodal": "Чис 21:4",
+        "word": "וַ/תִּקְצַ֥ר",
+        "gloss_en": "and/ it became short",
+        "occurrences": 46
+      }
+    ],
+    "replaces": "H5676"
+  },
+  "H4058": {
+    "canon": "проверка меры",
+    "human_echoes": "оценить заново",
+    "prompt": "❓ Где мера сбилась?",
+    "refs": [
+      {
+        "ref_mt": "Втор 21:2",
+        "ref_synodal": "Втор 21:2",
+        "word": "וּ/מָדְדוּ֙",
+        "gloss_en": "and/ they will measure",
+        "occurrences": 49
+      }
+    ],
+    "replaces": "H5608"
+  },
+  "H8104": {
+    "canon": "сторожить",
+    "human_echoes": "следить · не пускать",
+    "prompt": "❓ Что ты должен сторожить?",
+    "refs": [
+      {
+        "ref_mt": "Быт 2:15",
+        "ref_synodal": "Быт 2:15",
+        "word": "וּ/לְ/שָׁמְרָֽ/הּ",
+        "gloss_en": "and/ to/ keep/ it",
+        "occurrences": 440
+      }
+    ],
+    "replaces": "H1766"
+  },
+  "H7098": {
+    "canon": "точка невозврата",
+    "human_echoes": "не оглядываться",
+    "prompt": "❓ Где ты уже за точкой возврата?",
+    "refs": [
+      {
+        "ref_mt": "Иов 28:24",
+        "ref_synodal": "Иов 28:24",
+        "word": "לִ/קְצוֹת־",
+        "gloss_en": "to/ [the] ends of",
+        "occurrences": 30
+      }
+    ]
+  },
+  "H8003": {
+    "canon": "мера соблюдена",
+    "human_echoes": "оставить как есть",
+    "prompt": "❓ Где всё уже в балансе?",
+    "refs": [
+      {
+        "ref_mt": "Втор 25:15",
+        "ref_synodal": "Втор 25:15",
+        "word": "שְׁלֵמָ֤ה",
+        "gloss_en": "full",
+        "occurrences": 27
+      }
+    ],
+    "replaces": "H1367"
+  }
+}

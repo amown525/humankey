@@ -1,0 +1,452 @@
+{
+  "H7922": {
+    "canon": "смысл · значение · суть",
+    "human_echoes": "понять · уловить суть",
+    "prompt": "❓ В чём для тебя сейчас главный смысл?",
+    "refs": [
+      {
+        "ref_mt": "Неем 8:8",
+        "ref_synodal": "Неем 8:8",
+        "word": "שֶׂ֔כֶל",
+        "gloss_en": "[the] sense",
+        "occurrences": 16
+      }
+    ],
+    "replaces": "H1101"
+  },
+  "H571": {
+    "canon": "истина · правда · реальность",
+    "human_echoes": "признать · увидеть",
+    "prompt": "❓ Какую правду ты обходишь?",
+    "refs": [
+      {
+        "ref_mt": "Пс 25:5",
+        "ref_synodal": "Пс 24:5",
+        "word": "בַ/אֲמִתֶּ֨/ךָ׀",
+        "gloss_en": "in/ truth/ your",
+        "occurrences": 125
+      }
+    ],
+    "replaces": "H1102"
+  },
+  "H565": {
+    "canon": "слово · выражение · форма",
+    "human_echoes": "сказать · назвать",
+    "prompt": "❓ Какое слово просится быть сказанным?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:11",
+        "ref_synodal": "Пс 118:11",
+        "word": "אִמְרָתֶ֑/ךָ",
+        "gloss_en": "word/ your",
+        "occurrences": 35
+      }
+    ],
+    "replaces": "H1103"
+  },
+  "H7121": {
+    "canon": "назвать · обозначить",
+    "human_echoes": "дать имя",
+    "prompt": "❓ Что ты можешь назвать прямо?",
+    "refs": [
+      {
+        "ref_mt": "Быт 2:19",
+        "ref_synodal": "Быт 2:19",
+        "word": "יִּקְרָא־",
+        "gloss_en": "will he call",
+        "occurrences": 687
+      }
+    ],
+    "replaces": "H1104"
+  },
+  "H874": {
+    "canon": "ясность · прояснение",
+    "human_echoes": "разобраться · увидеть чётко",
+    "prompt": "❓ Где тебе нужна ясность?",
+    "refs": [
+      {
+        "ref_mt": "Авв 2:2",
+        "ref_synodal": "Авв 2:2",
+        "word": "וּ/בָאֵ֖ר",
+        "gloss_en": "and/ make [it] clear",
+        "occurrences": 3
+      }
+    ],
+    "replaces": "H1105"
+  },
+  "H8267": {
+    "canon": "ложь · искажение",
+    "human_echoes": "перестать врать себе",
+    "prompt": "❓ В чём ты себя обманываешь?",
+    "refs": [
+      {
+        "ref_mt": "Исх 20:16",
+        "ref_synodal": "Исх 20:16",
+        "word": "שָֽׁקֶר ס",
+        "gloss_en": "falsehood",
+        "occurrences": 109
+      }
+    ],
+    "replaces": "H1106"
+  },
+  "H7592": {
+    "canon": "вопрос · поиск",
+    "human_echoes": "спросить · усомниться",
+    "prompt": "❓ Какой вопрос сейчас самый живой?",
+    "refs": [
+      {
+        "ref_mt": "Пс 27:4",
+        "ref_synodal": "Пс 26:4",
+        "word": "שָׁאַ֣לְתִּי",
+        "gloss_en": "I have asked",
+        "occurrences": 157
+      }
+    ],
+    "replaces": "H1107"
+  },
+  "H4617": {
+    "canon": "ответ · формулировка",
+    "human_echoes": "сформулировать · ответить",
+    "prompt": "❓ Какой ответ у тебя уже есть?",
+    "refs": [
+      {
+        "ref_mt": "Притч 15:1",
+        "ref_synodal": "Притч 15:1",
+        "word": "מַֽעֲנֶה־",
+        "gloss_en": "an answer",
+        "occurrences": 7
+      }
+    ],
+    "replaces": "H1108"
+  },
+  "H2420": {
+    "canon": "смысловой узел",
+    "human_echoes": "распутать · связать",
+    "prompt": "❓ Где у тебя смысл запутался?",
+    "refs": [
+      {
+        "ref_mt": "Пс 49:5",
+        "ref_synodal": "Пс 48:5",
+        "word": "חִידָתִֽ/י",
+        "gloss_en": "riddle/ my",
+        "occurrences": 17
+      }
+    ],
+    "replaces": "H1109"
+  },
+  "H3476": {
+    "canon": "прямое слово",
+    "human_echoes": "сказать прямо",
+    "prompt": "❓ Что ты можешь сказать без обходов?",
+    "refs": [
+      {
+        "ref_mt": "Иов 6:25",
+        "ref_synodal": "Иов 6:25",
+        "word": "יֹ֑שֶׁר",
+        "gloss_en": "uprightness",
+        "occurrences": 14
+      }
+    ],
+    "replaces": "H1110"
+  },
+  "H2814": {
+    "canon": "молчание · пауза",
+    "human_echoes": "остановиться · не говорить",
+    "prompt": "❓ Где лучше помолчать?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 3:7",
+        "ref_synodal": "Еккл 3:7",
+        "word": "לַ/חֲשׁ֖וֹת",
+        "gloss_en": "to/ be silent",
+        "occurrences": 16
+      }
+    ],
+    "replaces": "H1111"
+  },
+  "H2910": {
+    "canon": "внутренняя правда",
+    "human_echoes": "быть честным",
+    "prompt": "❓ Что для тебя сейчас внутренняя правда?",
+    "refs": [
+      {
+        "ref_mt": "Пс 51:8",
+        "ref_synodal": "Пс 50:8",
+        "word": "בַ/טֻּח֑וֹת",
+        "gloss_en": "in the/ covered places",
+        "occurrences": 2
+      }
+    ],
+    "replaces": "H1112"
+  },
+  "H8638": {
+    "canon": "перевод смысла",
+    "human_echoes": "объяснить · донести",
+    "prompt": "❓ Кому ты хочешь быть понят?",
+    "refs": [
+      {
+        "ref_mt": "Езд 4:7",
+        "ref_synodal": "Езд 4:7",
+        "word": "וּ/מְתֻרְגָּ֥ם",
+        "gloss_en": "and/ [was] translated",
+        "occurrences": 1
+      }
+    ],
+    "replaces": "H1113"
+  },
+  "H5557": {
+    "canon": "искажённый смысл",
+    "human_echoes": "переосмыслить",
+    "prompt": "❓ Где смысл подменили?",
+    "refs": [
+      {
+        "ref_mt": "Исх 23:8",
+        "ref_synodal": "Исх 23:8",
+        "word": "וִֽ/יסַלֵּ֖ף",
+        "gloss_en": "so/ it may pervert",
+        "occurrences": 7
+      }
+    ],
+    "replaces": "H1114"
+  },
+  "H3336": {
+    "canon": "намерение слова",
+    "human_echoes": "говорить осознанно",
+    "prompt": "❓ С каким намерением ты говоришь?",
+    "refs": [
+      {
+        "ref_mt": "Быт 6:5",
+        "ref_synodal": "Быт 6:5",
+        "word": "יֵ֙צֶר֙",
+        "gloss_en": "<the> inclination of",
+        "occurrences": 9
+      }
+    ],
+    "replaces": "H1115"
+  },
+  "H5715": {
+    "canon": "свидетельство",
+    "human_echoes": "засвидетельствовать",
+    "prompt": "❓ О чём ты готов засвидетельствовать?",
+    "refs": [
+      {
+        "ref_mt": "Исх 25:16",
+        "ref_synodal": "Исх 25:16",
+        "word": "הָ/עֵדֻ֔ת",
+        "gloss_en": "the/ testimony",
+        "occurrences": 59
+      }
+    ],
+    "replaces": "H1116"
+  },
+  "H8034": {
+    "canon": "истинное имя",
+    "human_echoes": "назвать точно",
+    "prompt": "❓ Какое истинное имя у происходящего?",
+    "refs": [
+      {
+        "ref_mt": "Исх 3:13",
+        "ref_synodal": "Исх 3:13",
+        "word": "שְּׁמ֔/וֹ",
+        "gloss_en": "[is] name/ his",
+        "occurrences": 771
+      }
+    ],
+    "replaces": "H1117"
+  },
+  "H995": {
+    "canon": "понимание",
+    "human_echoes": "осознать · принять",
+    "prompt": "❓ Что ты наконец понял?",
+    "refs": [
+      {
+        "ref_mt": "Притч 2:5",
+        "ref_synodal": "Притч 2:5",
+        "word": "תָּ֭בִין",
+        "gloss_en": "you will discern",
+        "occurrences": 162
+      }
+    ],
+    "replaces": "H1118"
+  },
+  "H1305": {
+    "canon": "смысловой выбор",
+    "human_echoes": "выбрать интерпретацию",
+    "prompt": "❓ Какой смысл ты выбираешь?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 3:18",
+        "ref_synodal": "Еккл 3:18",
+        "word": "לְ/בָרָ֖/ם",
+        "gloss_en": "to/ test/ them",
+        "occurrences": 16
+      }
+    ],
+    "replaces": "H1119"
+  },
+  "H4912": {
+    "canon": "ясная формула",
+    "human_echoes": "сформулировать кратко",
+    "prompt": "❓ Можешь сказать это в одной фразе?",
+    "refs": [
+      {
+        "ref_mt": "Притч 1:1",
+        "ref_synodal": "Притч 1:1",
+        "word": "מִ֭שְׁלֵי",
+        "gloss_en": "[the] proverbs of",
+        "occurrences": 39
+      }
+    ],
+    "replaces": "H1120"
+  },
+  "H5641": {
+    "canon": "сказанное и несказанное",
+    "human_echoes": "заметить пробел",
+    "prompt": "❓ Что осталось несказанным?",
+    "refs": [
+      {
+        "ref_mt": "Втор 29:28",
+        "ref_synodal": "Втор 29:28",
+        "word": "הַ֨/נִּסְתָּרֹ֔ת",
+        "gloss_en": "the/ hidden [things]",
+        "occurrences": 80
+      }
+    ],
+    "replaces": "H1121"
+  },
+  "H7878": {
+    "canon": "внутренний диалог",
+    "human_echoes": "услышать себя",
+    "prompt": "❓ Какой голос внутри звучит громче?",
+    "refs": [
+      {
+        "ref_mt": "Пс 77:7",
+        "ref_synodal": "Пс 76:7",
+        "word": "אָשִׂ֑יחָה",
+        "gloss_en": "I will meditate",
+        "occurrences": 20
+      }
+    ],
+    "replaces": "H1122"
+  },
+  "H2114": {
+    "canon": "чужая истина",
+    "human_echoes": "отделить своё",
+    "prompt": "❓ Где не твоя истина?",
+    "refs": [
+      {
+        "ref_mt": "Притч 14:10",
+        "ref_synodal": "Притч 14:10",
+        "word": "זָֽר",
+        "gloss_en": "a stranger",
+        "occurrences": 76
+      }
+    ],
+    "replaces": "H1123"
+  },
+  "H8505": {
+    "canon": "точность",
+    "human_echoes": "уточнить · выверить",
+    "prompt": "❓ Где нужна точность слова?",
+    "refs": [
+      {
+        "ref_mt": "Притч 16:2",
+        "ref_synodal": "Притч 16:2",
+        "word": "וְ/תֹכֵ֖ן",
+        "gloss_en": "and/ [is] weighing",
+        "occurrences": 13
+      }
+    ],
+    "replaces": "H1124"
+  },
+  "H8537": {
+    "canon": "простота",
+    "human_echoes": "убрать лишнее",
+    "prompt": "❓ Что можно упростить?",
+    "refs": [
+      {
+        "ref_mt": "Быт 20:5",
+        "ref_synodal": "Быт 20:5",
+        "word": "בְּ/תָם־",
+        "gloss_en": "in/ [the] integrity of",
+        "occurrences": 23
+      }
+    ],
+    "replaces": "H1125"
+  },
+  "H8394": {
+    "canon": "смысловая опора",
+    "human_echoes": "опереться на понимание",
+    "prompt": "❓ На какой смысл ты опираешься?",
+    "refs": [
+      {
+        "ref_mt": "Притч 3:19",
+        "ref_synodal": "Притч 3:19",
+        "word": "בִּ/תְבוּנָֽה",
+        "gloss_en": "by/ understanding",
+        "occurrences": 42
+      }
+    ],
+    "replaces": "H1126"
+  },
+  "H3034": {
+    "canon": "исповедальность",
+    "human_echoes": "сказать честно",
+    "prompt": "❓ Где ты готов быть предельно честным?",
+    "refs": [
+      {
+        "ref_mt": "Пс 32:5",
+        "ref_synodal": "Пс 31:5",
+        "word": "אוֹדֶ֤ה",
+        "gloss_en": "I will confess",
+        "occurrences": 111
+      }
+    ],
+    "replaces": "H1127"
+  },
+  "H1697": {
+    "canon": "слово как действие",
+    "human_echoes": "сказать и сделать",
+    "prompt": "❓ Какое слово требует действия?",
+    "refs": [
+      {
+        "ref_mt": "Ис 55:11",
+        "ref_synodal": "Ис 55:11",
+        "word": "דְבָרִ/י֙",
+        "gloss_en": "word/ my",
+        "occurrences": 1290
+      }
+    ],
+    "replaces": "H1128"
+  },
+  "H4390": {
+    "canon": "соответствие",
+    "human_echoes": "слово = дело",
+    "prompt": "❓ Соответствуют ли твои слова делам?",
+    "refs": [
+      {
+        "ref_mt": "3 Цар 8:15",
+        "ref_synodal": "3 Цар 8:15",
+        "word": "מִלֵּ֖א",
+        "gloss_en": "he has fulfilled",
+        "occurrences": 241
+      }
+    ],
+    "replaces": "H1129"
+  },
+  "H6258": {
+    "canon": "истина момента",
+    "human_echoes": "быть здесь и сейчас",
+    "prompt": "❓ В чём истина этого момента?",
+    "refs": [
+      {
+        "ref_mt": "Пс 2:10",
+        "ref_synodal": "Пс 2:10",
+        "word": "וְ֭/עַתָּה",
+        "gloss_en": "and/ therefore",
+        "occurrences": 422
+      }
+    ],
+    "replaces": "H1130"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "H1865": {
+    "canon": "свобода · выход · освобождение",
+    "human_echoes": "выйти · отпустить",
+    "prompt": "❓ Где ты хочешь свободы прямо сейчас?",
+    "refs": [
+      {
+        "ref_mt": "Лев 25:10",
+        "ref_synodal": "Лев 25:10",
+        "word": "דְּר֛וֹר",
+        "gloss_en": "liberty",
+        "occurrences": 7
+      }
+    ],
+    "replaces": "H2674"
+  },
+  "H977": {
+    "canon": "выбор · решение",
+    "human_echoes": "выбрать · взять ответственность",
+    "prompt": "❓ Какой выбор ты откладываешь?",
+    "refs": [
+      {
+        "ref_mt": "Втор 30:19",
+        "ref_synodal": "Втор 30:19",
+        "word": "וּ/בָֽחַרְתָּ֙",
+        "gloss_en": "and/ you will choose",
+        "occurrences": 163
+      }
+    ]
+  },
+  "H7522": {
+    "canon": "воля · намерение",
+    "human_echoes": "направить · удержать курс",
+    "prompt": "❓ В чём твоя воля сегодня?",
+    "refs": [
+      {
+        "ref_mt": "Пс 40:9",
+        "ref_synodal": "Пс 39:9",
+        "word": "רְצוֹנְ/ךָ֣",
+        "gloss_en": "will/ your",
+        "occurrences": 56
+      }
+    ]
+  },
+  "H905": {
+    "canon": "самостоятельность",
+    "human_echoes": "действовать самому",
+    "prompt": "❓ Где ты можешь действовать без разрешения?",
+    "refs": [
+      {
+        "ref_mt": "Быт 2:18",
+        "ref_synodal": "Быт 2:18",
+        "word": "לְ/בַדּ֑/וֹ",
+        "gloss_en": "to/ only/ him",
+        "occurrences": 177
+      }
+    ],
+    "replaces": "H3610"
+  },
+  "H2388": {
+    "canon": "решимость",
+    "human_echoes": "не отступать",
+    "prompt": "❓ Где нужна решимость?",
+    "refs": [
+      {
+        "ref_mt": "Нав 1:6",
+        "ref_synodal": "Нав 1:6",
+        "word": "חֲזַ֖ק",
+        "gloss_en": "be strong",
+        "occurrences": 266
+      }
+    ],
+    "replaces": "H2015"
+  },
+  "H6605": {
+    "canon": "выйти из-под власти",
+    "human_echoes": "освободиться · перестать подчиняться",
+    "prompt": "❓ Чьей власти ты подчиняешься зря?",
+    "refs": [
+      {
+        "ref_mt": "Ис 58:6",
+        "ref_synodal": "Ис 58:6",
+        "word": "פַּתֵּ֙חַ֙",
+        "gloss_en": "to loosen",
+        "occurrences": 133
+      }
+    ],
+    "replaces": "H733"
+  },
+  "H8378": {
+    "canon": "желание · стремление",
+    "human_echoes": "хотеть · признать желание",
+    "prompt": "❓ Чего ты на самом деле хочешь?",
+    "refs": [
+      {
+        "ref_mt": "Пс 38:10",
+        "ref_synodal": "Пс 37:10",
+        "word": "תַּאֲוָתִ֑/י",
+        "gloss_en": "desire/ my",
+        "occurrences": 20
+      }
+    ],
+    "replaces": "H3190"
+  },
+  "H6466": {
+    "canon": "намеренное действие",
+    "human_echoes": "действовать осознанно",
+    "prompt": "❓ Что ты делаешь неосознанно?",
+    "refs": [
+      {
+        "ref_mt": "Пс 15:2",
+        "ref_synodal": "Пс 14:2",
+        "word": "וּ/פֹעֵ֥ל",
+        "gloss_en": "and/ [one who] does",
+        "occurrences": 56
+      }
+    ],
+    "replaces": "H1697"
+  },
+  "H4161": {
+    "canon": "выход · путь наружу",
+    "human_echoes": "найти выход",
+    "prompt": "❓ Где есть выход, который ты не видишь?",
+    "refs": [
+      {
+        "ref_mt": "Пс 65:9",
+        "ref_synodal": "Пс 64:9",
+        "word": "מ֤וֹצָֽאֵי־",
+        "gloss_en": "[the] going<s> out of",
+        "occurrences": 26
+      }
+    ],
+    "replaces": "H267"
+  },
+  "H7503": {
+    "canon": "отпустить контроль",
+    "human_echoes": "разжать · позволить",
+    "prompt": "❓ Что ты можешь отпустить?",
+    "refs": [
+      {
+        "ref_mt": "Пс 46:11",
+        "ref_synodal": "Пс 45:11",
+        "word": "הַרְפּ֣וּ",
+        "gloss_en": "be quiet",
+        "occurrences": 45
+      }
+    ],
+    "replaces": "H1254"
+  },
+  "H5375": {
+    "canon": "взять на себя",
+    "human_echoes": "присвоить · принять",
+    "prompt": "❓ Что ты готов взять на себя?",
+    "refs": [
+      {
+        "ref_mt": "Ис 53:4",
+        "ref_synodal": "Ис 53:4",
+        "word": "נָשָׂ֔א",
+        "gloss_en": "he bore",
+        "occurrences": 614
+      }
+    ],
+    "replaces": "H5975"
+  },
+  "H5337": {
+    "canon": "избавление",
+    "human_echoes": "освободиться",
+    "prompt": "❓ От чего ты хочешь избавиться?",
+    "refs": [
+      {
+        "ref_mt": "Пс 34:5",
+        "ref_synodal": "Пс 33:5",
+        "word": "הִצִּילָֽ/נִי",
+        "gloss_en": "he delivered/ me",
+        "occurrences": 194
+      }
+    ],
+    "replaces": "H3427"
+  },
+  "H5071": {
+    "canon": "добровольно",
+    "human_echoes": "по собственной воле",
+    "prompt": "❓ Что ты делаешь по-настоящему добровольно?",
+    "refs": [
+      {
+        "ref_mt": "Пс 54:8",
+        "ref_synodal": "Пс 53:8",
+        "word": "בִּ/נְדָבָ֥ה",
+        "gloss_en": "in/ voluntariness",
+        "occurrences": 25
+      }
+    ],
+    "replaces": "H5978"
+  },
+  "H5414": {
+    "canon": "дать · разрешить",
+    "human_echoes": "разрешить себе",
+    "prompt": "❓ Что ты можешь себе разрешить?",
+    "refs": [
+      {
+        "ref_mt": "Быт 1:29",
+        "ref_synodal": "Быт 1:29",
+        "word": "נָתַ֨תִּי",
+        "gloss_en": "I give",
+        "occurrences": 1816
+      }
+    ]
+  },
+  "H4910": {
+    "canon": "власть над собой",
+    "human_echoes": "управлять · не срываться",
+    "prompt": "❓ Где ты возвращаешь себе власть?",
+    "refs": [
+      {
+        "ref_mt": "Притч 16:32",
+        "ref_synodal": "Притч 16:32",
+        "word": "וּ/מֹשֵׁ֥ל",
+        "gloss_en": "and/ [one who] rules",
+        "occurrences": 74
+      }
+    ],
+    "replaces": "H8199"
+  },
+  "H518": {
+    "canon": "если · возможность",
+    "human_echoes": "рассмотреть вариант",
+    "prompt": "❓ А если возможно иначе?",
+    "refs": [
+      {
+        "ref_mt": "Быт 4:7",
+        "ref_synodal": "Быт 4:7",
+        "word": "אִם־",
+        "gloss_en": "if",
+        "occurrences": 930
+      }
+    ]
+  },
+  "H6437": {
+    "canon": "поворот",
+    "human_echoes": "изменить направление",
+    "prompt": "❓ Где ты можешь повернуть?",
+    "refs": [
+      {
+        "ref_mt": "Ис 45:22",
+        "ref_synodal": "Ис 45:22",
+        "word": "פְּנוּ־",
+        "gloss_en": "turn",
+        "occurrences": 128
+      }
+    ],
+    "replaces": "H319"
+  },
+  "H553": {
+    "canon": "укрепиться",
+    "human_echoes": "стать твёрже",
+    "prompt": "❓ В чём тебе нужно укрепиться?",
+    "refs": [
+      {
+        "ref_mt": "Втор 31:6",
+        "ref_synodal": "Втор 31:6",
+        "word": "וְ/אִמְצ֔וּ",
+        "gloss_en": "and/ be bold",
+        "occurrences": 41
+      }
+    ]
+  },
+  "H7521": {
+    "canon": "разрешение",
+    "human_echoes": "дать добро",
+    "prompt": "❓ Чьё разрешение ты ждёшь?",
+    "refs": [
+      {
+        "ref_mt": "Притч 16:7",
+        "ref_synodal": "Притч 16:7",
+        "word": "בִּ/רְצ֣וֹת",
+        "gloss_en": "when/ is pleased with",
+        "occurrences": 54
+      }
+    ],
+    "replaces": "H3820"
+  },
+  "H5493": {
+    "canon": "уйти · отступить",
+    "human_echoes": "выйти из игры",
+    "prompt": "❓ Откуда ты можешь уйти без потерь?",
+    "refs": [
+      {
+        "ref_mt": "Притч 4:27",
+        "ref_synodal": "Притч 4:27",
+        "word": "הָסֵ֖ר",
+        "gloss_en": "turn aside",
+        "occurrences": 283
+      }
+    ],
+    "replaces": "H6213"
+  },
+  "H3513": {
+    "canon": "вес · значимость",
+    "human_echoes": "придать значение",
+    "prompt": "❓ Что для тебя действительно важно?",
+    "refs": [
+      {
+        "ref_mt": "Исх 20:12",
+        "ref_synodal": "Исх 20:12",
+        "word": "כַּבֵּ֥ד",
+        "gloss_en": "honor",
+        "occurrences": 106
+      }
+    ]
+  },
+  "H595": {
+    "canon": "я сам",
+    "human_echoes": "опереться на себя",
+    "prompt": "❓ Где ты можешь сказать: «я сам»?",
+    "refs": [
+      {
+        "ref_mt": "Исх 3:6",
+        "ref_synodal": "Исх 3:6",
+        "word": "אָנֹכִי֙",
+        "gloss_en": "I",
+        "occurrences": 335
+      }
+    ],
+    "replaces": "H859"
+  },
+  "H7760": {
+    "canon": "решимость сердца",
+    "human_echoes": "выбрать внутри",
+    "prompt": "❓ Что ты уже решил внутри?",
+    "refs": [
+      {
+        "ref_mt": "Агг 1:5",
+        "ref_synodal": "Агг 1:5",
+        "word": "שִׂ֥ימוּ",
+        "gloss_en": "set",
+        "occurrences": 551
+      }
+    ],
+    "replaces": "H5310"
+  },
+  "H6862": {
+    "canon": "узость · сжатие",
+    "human_echoes": "выйти из тесноты",
+    "prompt": "❓ Где тебе тесно?",
+    "refs": [
+      {
+        "ref_mt": "Пс 4:2",
+        "ref_synodal": "Пс 4:2",
+        "word": "בַּ֭/צָּר",
+        "gloss_en": "in the/ distress",
+        "occurrences": 106
+      }
+    ],
+    "replaces": "H3318"
+  },
+  "H5046": {
+    "canon": "прямая воля",
+    "human_echoes": "сказать прямо",
+    "prompt": "❓ Что ты хочешь сказать прямо?",
+    "refs": [
+      {
+        "ref_mt": "Пс 19:2",
+        "ref_synodal": "Пс 18:2",
+        "word": "מַגִּ֥יד",
+        "gloss_en": "[is] telling",
+        "occurrences": 345
+      }
+    ],
+    "replaces": "H7335"
+  },
+  "H5800": {
+    "canon": "оставить",
+    "human_echoes": "перестать держаться",
+    "prompt": "❓ Что ты готов оставить?",
+    "refs": [
+      {
+        "ref_mt": "Быт 2:24",
+        "ref_synodal": "Быт 2:24",
+        "word": "יַֽעֲזָב־",
+        "gloss_en": "he leaves",
+        "occurrences": 206
+      }
+    ],
+    "replaces": "H597"
+  },
+  "H226": {
+    "canon": "знак выбора",
+    "human_echoes": "отметить решение",
+    "prompt": "❓ Как ты отметишь свой выбор?",
+    "refs": [
+      {
+        "ref_mt": "Быт 1:14",
+        "ref_synodal": "Быт 1:14",
+        "word": "לְ/אֹתֹת֙",
+        "gloss_en": "<into>/ signs",
+        "occurrences": 78
+      }
+    ],
+    "replaces": "H8441"
+  },
+  "H4131": {
+    "canon": "твёрдость",
+    "human_echoes": "не колебаться",
+    "prompt": "❓ Где нужна твёрдость?",
+    "refs": [
+      {
+        "ref_mt": "Пс 16:8",
+        "ref_synodal": "Пс 15:8",
+        "word": "אֶמּֽוֹט",
+        "gloss_en": "I will be shaken",
+        "occurrences": 36
+      }
+    ],
+    "replaces": "H5536"
+  },
+  "H4800": {
+    "canon": "свободный ход",
+    "human_echoes": "двигаться без препятствий",
+    "prompt": "❓ Где ты можешь двигаться свободно?",
+    "refs": [
+      {
+        "ref_mt": "Пс 31:9",
+        "ref_synodal": "Пс 30:9",
+        "word": "בַ/מֶּרְחָ֣ב",
+        "gloss_en": "in <the>/ roomy place",
+        "occurrences": 6
+      }
+    ],
+    "replaces": "H3627"
+  },
+  "H6965": {
+    "canon": "утверждение выбора",
+    "human_echoes": "подтвердить решение",
+    "prompt": "❓ Ты готов подтвердить свой выбор?",
+    "refs": [
+      {
+        "ref_mt": "Руфь 4:7",
+        "ref_synodal": "Руфь 4:7",
+        "word": "לְ/קַיֵּ֣ם",
+        "gloss_en": "to/ confirm",
+        "occurrences": 596
+      }
+    ],
+    "replaces": "H3825"
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "H2165": {
+    "canon": "время · срок · момент",
+    "human_echoes": "дождаться · не спешить",
+    "prompt": "❓ Что ещё не пришло по времени?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 3:1",
+        "ref_synodal": "Еккл 3:1",
+        "word": "זְמָ֑ן",
+        "gloss_en": "an appointed time",
+        "occurrences": 4
+      }
+    ],
+    "replaces": "H3117"
+  },
+  "H4150": {
+    "canon": "пора · назначенный час",
+    "human_echoes": "выйти · действовать",
+    "prompt": "❓ Где уже пора?",
+    "refs": [
+      {
+        "ref_mt": "Быт 1:14",
+        "ref_synodal": "Быт 1:14",
+        "word": "וּ/לְ/מ֣וֹעֲדִ֔ים",
+        "gloss_en": "and/ <into>/ appointed times",
+        "occurrences": 213
+      }
+    ],
+    "replaces": "H6256"
+  },
+  "H310": {
+    "canon": "после · потом",
+    "human_echoes": "отложить · не сейчас",
+    "prompt": "❓ Что можно сделать позже?",
+    "refs": [
+      {
+        "ref_mt": "Быт 15:1",
+        "ref_synodal": "Быт 15:1",
+        "word": "אַחַ֣ר׀",
+        "gloss_en": "after",
+        "occurrences": 665
+      }
+    ],
+    "replaces": "H311"
+  },
+  "H7225": {
+    "canon": "начало времени",
+    "human_echoes": "отсчитать сначала",
+    "prompt": "❓ С какого момента всё началось?",
+    "refs": [
+      {
+        "ref_mt": "Быт 1:1",
+        "ref_synodal": "Быт 1:1",
+        "word": "בְּ/רֵאשִׁ֖ית",
+        "gloss_en": "in/ beginning",
+        "occurrences": 49
+      }
+    ],
+    "replaces": "H227"
+  },
+  "H319": {
+    "canon": "будущее · грядущее",
+    "human_echoes": "подготовиться",
+    "prompt": "❓ К чему ты не готов?",
+    "refs": [
+      {
+        "ref_mt": "Иер 29:11",
+        "ref_synodal": "Иер 29:11",
+        "word": "אַחֲרִ֥ית",
+        "gloss_en": "a future",
+        "occurrences": 60
+      }
+    ],
+    "replaces": "H268"
+  },
+  "H570": {
+    "canon": "вчера · прошлое",
+    "human_echoes": "оставить · не тащить",
+    "prompt": "❓ Что пора оставить в прошлом?",
+    "refs": [
+      {
+        "ref_mt": "4 Цар 9:26",
+        "ref_synodal": "4 Цар 9:26",
+        "word": "אֶ֙מֶשׁ֙",
+        "gloss_en": "yesterday",
+        "occurrences": 5
+      }
+    ]
+  },
+  "H6258": {
+    "canon": "сейчас · теперь",
+    "human_echoes": "присутствовать",
+    "prompt": "❓ Где ты не в настоящем?",
+    "refs": [
+      {
+        "ref_mt": "Втор 10:12",
+        "ref_synodal": "Втор 10:12",
+        "word": "וְ/עַתָּה֙",
+        "gloss_en": "and/ now",
+        "occurrences": 422
+      }
+    ],
+    "replaces": "H116"
+  },
+  "H7281": {
+    "canon": "один момент",
+    "human_echoes": "сфокусироваться",
+    "prompt": "❓ На чём одном ты можешь сосредоточиться?",
+    "refs": [
+      {
+        "ref_mt": "Пс 30:6",
+        "ref_synodal": "Пс 29:6",
+        "word": "רֶ֨גַע׀",
+        "gloss_en": "a moment",
+        "occurrences": 22
+      }
+    ],
+    "replaces": "H259"
+  },
+  "H6960": {
+    "canon": "пауза · ожидание",
+    "human_echoes": "выдержать",
+    "prompt": "❓ Что требует паузы?",
+    "refs": [
+      {
+        "ref_mt": "Пс 27:14",
+        "ref_synodal": "Пс 26:14",
+        "word": "קַוֵּ֗ה",
+        "gloss_en": "wait",
+        "occurrences": 45
+      }
+    ],
+    "replaces": "H169"
+  },
+  "H748": {
+    "canon": "долго · затянуто",
+    "human_echoes": "признать усталость",
+    "prompt": "❓ Что длится слишком долго?",
+    "refs": [
+      {
+        "ref_mt": "Чис 9:19",
+        "ref_synodal": "Чис 9:19",
+        "word": "וּ/בְ/הַאֲרִ֧יךְ",
+        "gloss_en": "and/ when/ made long",
+        "occurrences": 34
+      }
+    ],
+    "replaces": "H202"
+  },
+  "H309": {
+    "canon": "поздно · упущено",
+    "human_echoes": "перестать цепляться",
+    "prompt": "❓ Где уже поздно?",
+    "refs": [
+      {
+        "ref_mt": "Авв 2:3",
+        "ref_synodal": "Авв 2:3",
+        "word": "יְאַחֵֽר",
+        "gloss_en": "it will delay",
+        "occurrences": 17
+      }
+    ],
+    "replaces": "H3119"
+  },
+  "H2363": {
+    "canon": "раньше времени",
+    "human_echoes": "остановиться",
+    "prompt": "❓ Где ты торопишься?",
+    "refs": [
+      {
+        "ref_mt": "Ис 28:16",
+        "ref_synodal": "Ис 28:16",
+        "word": "יָחִֽישׁ",
+        "gloss_en": "he will make haste",
+        "occurrences": 20
+      }
+    ],
+    "replaces": "H658"
+  },
+  "H5750": {
+    "canon": "ещё · пока",
+    "human_echoes": "потерпеть",
+    "prompt": "❓ Что ещё длится?",
+    "refs": [
+      {
+        "ref_mt": "Быт 8:22",
+        "ref_synodal": "Быт 8:22",
+        "word": "עֹ֖ד",
+        "gloss_en": "again",
+        "occurrences": 461
+      }
+    ]
+  },
+  "H5769": {
+    "canon": "всегда · постоянно",
+    "human_echoes": "увидеть паттерн",
+    "prompt": "❓ Что повторяется снова и снова?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 1:4",
+        "ref_synodal": "Еккл 1:4",
+        "word": "לְ/עוֹלָ֥ם",
+        "gloss_en": "for/ ever",
+        "occurrences": 413
+      }
+    ],
+    "replaces": "H5704"
+  },
+  "H1077": {
+    "canon": "никогда",
+    "human_echoes": "принять предел",
+    "prompt": "❓ Что никогда не случится?",
+    "refs": [
+      {
+        "ref_mt": "Пс 10:6",
+        "ref_synodal": "Пс 9:6",
+        "word": "בַּל־",
+        "gloss_en": "not",
+        "occurrences": 55
+      }
+    ],
+    "replaces": "H5709"
+  },
+  "H8145": {
+    "canon": "следом · далее",
+    "human_echoes": "последовательность",
+    "prompt": "❓ Какой следующий шаг?",
+    "refs": [
+      {
+        "ref_mt": "Быт 1:8",
+        "ref_synodal": "Быт 1:8",
+        "word": "שֵׁנִֽי פ",
+        "gloss_en": "second",
+        "occurrences": 151
+      }
+    ],
+    "replaces": "H3110"
+  },
+  "H4390": {
+    "canon": "срок · предел времени",
+    "human_echoes": "уложиться",
+    "prompt": "❓ Какой срок ты игнорируешь?",
+    "refs": [
+      {
+        "ref_mt": "Быт 25:24",
+        "ref_synodal": "Быт 25:24",
+        "word": "וַ/יִּמְלְא֥וּ",
+        "gloss_en": "and/ they were completed",
+        "occurrences": 241
+      }
+    ],
+    "replaces": "H7136"
+  },
+  "H7093": {
+    "canon": "конец времени",
+    "human_echoes": "завершить",
+    "prompt": "❓ Что пора закончить?",
+    "refs": [
+      {
+        "ref_mt": "Дан 12:13",
+        "ref_synodal": "Дан 12:13",
+        "word": "לַ/קֵּ֑ץ",
+        "gloss_en": "to the/ end",
+        "occurrences": 62
+      }
+    ]
+  },
+  "H4102": {
+    "canon": "позже · потом",
+    "human_echoes": "перенести",
+    "prompt": "❓ Что ты всё время откладываешь?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:60",
+        "ref_synodal": "Пс 118:60",
+        "word": "הִתְמַהְמָ֑הְתִּי",
+        "gloss_en": "I have delayed",
+        "occurrences": 9
+      }
+    ],
+    "replaces": "H3118"
+  },
+  "H3117": {
+    "canon": "сегодня",
+    "human_echoes": "сделать сейчас",
+    "prompt": "❓ Что можно сделать сегодня?",
+    "refs": [
+      {
+        "ref_mt": "Пс 95:7",
+        "ref_synodal": "Пс 94:7",
+        "word": "הַ֝/יּ֗וֹם",
+        "gloss_en": "this/ day",
+        "occurrences": 1932
+      }
+    ],
+    "replaces": "H3116"
+  },
+  "H3259": {
+    "canon": "назначенное время",
+    "human_echoes": "принять неизбежное",
+    "prompt": "❓ Какого времени не избежать?",
+    "refs": [
+      {
+        "ref_mt": "2 Цар 20:5",
+        "ref_synodal": "2 Цар 20:5",
+        "word": "יְעָדֽ/וֹ ס",
+        "gloss_en": "he had appointed for/ him",
+        "occurrences": 29
+      }
+    ],
+    "replaces": "H6258"
+  },
+  "H5331": {
+    "canon": "постоянство",
+    "human_echoes": "держать ритм",
+    "prompt": "❓ Где нужен ритм, а не рывок?",
+    "refs": [
+      {
+        "ref_mt": "Пс 16:11",
+        "ref_synodal": "Пс 15:11",
+        "word": "נֶֽצַח",
+        "gloss_en": "perpetuity",
+        "occurrences": 42
+      }
+    ],
+    "replaces": "H5731"
+  },
+  "H1242": {
+    "canon": "ежедневность",
+    "human_echoes": "привычка",
+    "prompt": "❓ Что формируется каждый день?",
+    "refs": [
+      {
+        "ref_mt": "Плач 3:23",
+        "ref_synodal": "Плач 3:23",
+        "word": "לַ/בְּקָרִ֔ים",
+        "gloss_en": "to the/ mornings",
+        "occurrences": 189
+      }
+    ],
+    "replaces": "H3115"
+  },
+  "H8431": {
+    "canon": "ожидание",
+    "human_echoes": "выдержка",
+    "prompt": "❓ Чего ты ждёшь?",
+    "refs": [
+      {
+        "ref_mt": "Притч 13:12",
+        "ref_synodal": "Притч 13:12",
+        "word": "תּוֹחֶ֣לֶת",
+        "gloss_en": "hope",
+        "occurrences": 6
+      }
+    ],
+    "replaces": "H2276"
+  },
+  "H328": {
+    "canon": "медленно",
+    "human_echoes": "не ускорять",
+    "prompt": "❓ Где скорость вредит?",
+    "refs": [
+      {
+        "ref_mt": "Быт 33:14",
+        "ref_synodal": "Быт 33:14",
+        "word": "לְ/אִטִּ֗/י",
+        "gloss_en": "to/ gentleness/ my",
+        "occurrences": 6
+      }
+    ],
+    "replaces": "H5751"
+  },
+  "H4120": {
+    "canon": "быстро",
+    "human_echoes": "не тормозить",
+    "prompt": "❓ Где нужна скорость?",
+    "refs": [
+      {
+        "ref_mt": "Пс 147:15",
+        "ref_synodal": "Пс 146:15",
+        "word": "מְ֝הֵרָ֗ה",
+        "gloss_en": "quickly",
+        "occurrences": 20
+      }
+    ],
+    "replaces": "H412"
+  },
+  "H5468": {
+    "canon": "последовательно",
+    "human_echoes": "шаг за шагом",
+    "prompt": "❓ Где важна последовательность?",
+    "refs": [
+      {
+        "ref_mt": "Иов 10:22",
+        "ref_synodal": "Иов 10:22",
+        "word": "סְדָרִ֗ים",
+        "gloss_en": "order<s>",
+        "occurrences": 1
+      }
+    ],
+    "replaces": "H3112"
+  },
+  "H6256": {
+    "canon": "вовремя",
+    "human_echoes": "попасть в момент",
+    "prompt": "❓ Где важно попасть в момент?",
+    "refs": [
+      {
+        "ref_mt": "Притч 15:23",
+        "ref_synodal": "Притч 15:23",
+        "word": "בְּ/עִתּ֣/וֹ",
+        "gloss_en": "at/ appropriate time/ its",
+        "occurrences": 258
+      }
+    ],
+    "replaces": "H2272"
+  },
+  "H7097": {
+    "canon": "срок истёк",
+    "human_echoes": "отпустить",
+    "prompt": "❓ Что уже вышло из срока?",
+    "refs": [
+      {
+        "ref_mt": "Быт 8:3",
+        "ref_synodal": "Быт 8:3",
+        "word": "מִ/קְצֵ֕ה",
+        "gloss_en": "from/ [the] end of",
+        "occurrences": 87
+      }
+    ]
+  },
+  "H1504": {
+    "canon": "момент выбора",
+    "human_echoes": "решиться",
+    "prompt": "❓ Какое решение нельзя откладывать?",
+    "refs": [
+      {
+        "ref_mt": "Есф 2:1",
+        "ref_synodal": "Есф 2:1",
+        "word": "נִגְזַ֖ר",
+        "gloss_en": "it had been decreed",
+        "occurrences": 13
+      }
+    ],
+    "replaces": "H6250"
+  }
+}

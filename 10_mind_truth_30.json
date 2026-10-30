@@ -1,0 +1,438 @@
+{
+  "H3045": {
+    "canon": "знать · осознавать · видеть ясно",
+    "human_echoes": "признать · перестать врать себе",
+    "prompt": "❓ Что ты уже знаешь, но не признаёшь?",
+    "refs": [
+      {
+        "ref_mt": "Пс 46:11",
+        "ref_synodal": "Пс 45:11",
+        "word": "וּ֭/דְעוּ",
+        "gloss_en": "and/ know",
+        "occurrences": 873
+      }
+    ]
+  },
+  "H553": {
+    "canon": "утвердить · укрепить разум",
+    "human_echoes": "собраться · не распадаться",
+    "prompt": "❓ Где тебе нужна внутренняя твёрдость?",
+    "refs": [
+      {
+        "ref_mt": "Ис 35:3",
+        "ref_synodal": "Ис 35:3",
+        "word": "אַמֵּֽצוּ",
+        "gloss_en": "make firm",
+        "occurrences": 41
+      }
+    ]
+  },
+  "H998": {
+    "canon": "понимание · смысл · мудрость",
+    "human_echoes": "разобраться · соединить",
+    "prompt": "❓ Что начинает складываться в смысл?",
+    "refs": [
+      {
+        "ref_mt": "Притч 4:7",
+        "ref_synodal": "Притч 4:7",
+        "word": "בִינָֽה",
+        "gloss_en": "understanding",
+        "occurrences": 38
+      }
+    ]
+  },
+  "H2451": {
+    "canon": "мудрость · точность · мера",
+    "human_echoes": "действовать разумно",
+    "prompt": "❓ Где ты можешь быть мудрее, а не правее?",
+    "refs": [
+      {
+        "ref_mt": "Притч 9:10",
+        "ref_synodal": "Притч 9:10",
+        "word": "חָ֭כְמָה",
+        "gloss_en": "wisdom",
+        "occurrences": 145
+      }
+    ]
+  },
+  "H3384": {
+    "canon": "наставлять · учить",
+    "human_echoes": "передать опыт",
+    "prompt": "❓ Кого ты можешь научить не словами, а примером?",
+    "refs": [
+      {
+        "ref_mt": "Пс 32:8",
+        "ref_synodal": "Пс 31:8",
+        "word": "וְֽ/אוֹרְ/ךָ֗",
+        "gloss_en": "and/ I will teach/ you",
+        "occurrences": 72
+      }
+    ],
+    "replaces": "H2450"
+  },
+  "H529": {
+    "canon": "верность · истина",
+    "human_echoes": "быть надёжным",
+    "prompt": "❓ В чём ты должен быть верен себе?",
+    "refs": [
+      {
+        "ref_mt": "Притч 13:17",
+        "ref_synodal": "Притч 13:17",
+        "word": "אֱמוּנִ֣ים",
+        "gloss_en": "faithfulness<es>",
+        "occurrences": 8
+      }
+    ]
+  },
+  "H571": {
+    "canon": "истина · устойчивость · реальность",
+    "human_echoes": "стоять · не шататься",
+    "prompt": "❓ На чём ты стоишь по-настоящему?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:160",
+        "ref_synodal": "Пс 118:160",
+        "word": "אֱמֶ֑ת",
+        "gloss_en": "[is] truth",
+        "occurrences": 125
+      }
+    ],
+    "replaces": "H530"
+  },
+  "H3577": {
+    "canon": "ложь · искажение",
+    "human_echoes": "распознать самообман",
+    "prompt": "❓ Где ты подменяешь правду удобной версией?",
+    "refs": [
+      {
+        "ref_mt": "Притч 30:8",
+        "ref_synodal": "Притч 30:8",
+        "word": "כָּזָ֡ב",
+        "gloss_en": "falsehood",
+        "occurrences": 31
+      }
+    ],
+    "replaces": "H571"
+  },
+  "H1697": {
+    "canon": "слово · мысль · намерение",
+    "human_echoes": "назвать · сформулировать",
+    "prompt": "❓ Что ты думаешь, но не формулируешь?",
+    "refs": [
+      {
+        "ref_mt": "Притч 25:11",
+        "ref_synodal": "Притч 25:11",
+        "word": "דָּ֝בָ֗ר",
+        "gloss_en": "a word",
+        "occurrences": 1290
+      }
+    ]
+  },
+  "H561": {
+    "canon": "ответ · формулировка",
+    "human_echoes": "ответить прямо",
+    "prompt": "❓ Какой ответ от тебя сейчас требуется?",
+    "refs": [
+      {
+        "ref_mt": "Притч 16:24",
+        "ref_synodal": "Притч 16:24",
+        "word": "אִמְרֵי־",
+        "gloss_en": "words of",
+        "occurrences": 47
+      }
+    ]
+  },
+  "H2142": {
+    "canon": "память · удержание",
+    "human_echoes": "вспомнить · не забывать",
+    "prompt": "❓ Что важно удержать в памяти?",
+    "refs": [
+      {
+        "ref_mt": "Пс 103:18",
+        "ref_synodal": "Пс 102:18",
+        "word": "וּ/לְ/זֹכְרֵ֥י",
+        "gloss_en": "and/ to/ [those who] remember",
+        "occurrences": 223
+      }
+    ]
+  },
+  "H7911": {
+    "canon": "забывать · стирать",
+    "human_echoes": "отпустить старое",
+    "prompt": "❓ Что пора перестать помнить?",
+    "refs": [
+      {
+        "ref_mt": "Втор 4:9",
+        "ref_synodal": "Втор 4:9",
+        "word": "תִּשְׁכַּ֨ח",
+        "gloss_en": "you should forget",
+        "occurrences": 95
+      }
+    ],
+    "replaces": "H2145"
+  },
+  "H3820": {
+    "canon": "разум · внутренний голос",
+    "human_echoes": "прислушаться",
+    "prompt": "❓ Что говорит твой разум, без эмоций?",
+    "refs": [
+      {
+        "ref_mt": "Пс 19:15",
+        "ref_synodal": "Пс 18:15",
+        "word": "לִבִּ֣/י",
+        "gloss_en": "heart/ my",
+        "occurrences": 551
+      }
+    ]
+  },
+  "H1897": {
+    "canon": "размышлять · взвешивать",
+    "human_echoes": "подумать глубже",
+    "prompt": "❓ О чём ты думаешь поверхностно?",
+    "refs": [
+      {
+        "ref_mt": "Пс 1:2",
+        "ref_synodal": "Пс 1:2",
+        "word": "יֶהְגֶּ֗ה",
+        "gloss_en": "he meditates",
+        "occurrences": 24
+      }
+    ],
+    "replaces": "H1907"
+  },
+  "H1892": {
+    "canon": "пустая мысль · суета",
+    "human_echoes": "отбросить лишнее",
+    "prompt": "❓ Какая мысль просто шум?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 1:2",
+        "ref_synodal": "Еккл 1:2",
+        "word": "הֲבֵ֤ל",
+        "gloss_en": "futility of",
+        "occurrences": 64
+      }
+    ],
+    "replaces": "H1897"
+  },
+  "H2154": {
+    "canon": "замысел · коварная мысль",
+    "human_echoes": "распознать искажение",
+    "prompt": "❓ Где мысль ведёт не туда?",
+    "refs": [
+      {
+        "ref_mt": "Притч 24:9",
+        "ref_synodal": "Притч 24:9",
+        "word": "זִמַּ֣ת",
+        "gloss_en": "a plan of",
+        "occurrences": 27
+      }
+    ]
+  },
+  "H2161": {
+    "canon": "замышлять · представлять",
+    "human_echoes": "увидеть последствия",
+    "prompt": "❓ Чем закончится эта мысль?",
+    "refs": [
+      {
+        "ref_mt": "Притч 30:32",
+        "ref_synodal": "Притч 30:32",
+        "word": "זַ֝מּ֗וֹתָ",
+        "gloss_en": "you have plotted",
+        "occurrences": 13
+      }
+    ]
+  },
+  "H200": {
+    "canon": "глупость · закрытость",
+    "human_echoes": "признать незнание",
+    "prompt": "❓ Где ты упираешься вместо того, чтобы понять?",
+    "refs": [
+      {
+        "ref_mt": "Притч 26:11",
+        "ref_synodal": "Притч 26:11",
+        "word": "בְ/אִוַּלְתּֽ/וֹ",
+        "gloss_en": "<in>/ foolishness/ his",
+        "occurrences": 24
+      }
+    ],
+    "replaces": "H7921"
+  },
+  "H7684": {
+    "canon": "ошибка · промах",
+    "human_echoes": "исправить",
+    "prompt": "❓ Где ты уже понял, что ошибся?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 5:5",
+        "ref_synodal": "Еккл 5:5",
+        "word": "שְׁגָגָ֖ה",
+        "gloss_en": "[was] inadvertence",
+        "occurrences": 18
+      }
+    ],
+    "replaces": "H6175"
+  },
+  "H914": {
+    "canon": "проницательность · различение",
+    "human_echoes": "отличить главное",
+    "prompt": "❓ Что важно отделить друг от друга?",
+    "refs": [
+      {
+        "ref_mt": "Лев 10:10",
+        "ref_synodal": "Лев 10:10",
+        "word": "וּֽ/לֲ/הַבְדִּ֔יל",
+        "gloss_en": "and/ to/ separate",
+        "occurrences": 40
+      }
+    ],
+    "replaces": "H3049"
+  },
+  "H2803": {
+    "canon": "внутренний расчёт · оценка",
+    "human_echoes": "взвесить честно",
+    "prompt": "❓ Что ты считаешь неверно?",
+    "refs": [
+      {
+        "ref_mt": "Притч 16:9",
+        "ref_synodal": "Притч 16:9",
+        "word": "יְחַשֵּׁ֣ב",
+        "gloss_en": "it plans",
+        "occurrences": 122
+      }
+    ],
+    "replaces": "H3789"
+  },
+  "H215": {
+    "canon": "ясность · прозрачность",
+    "human_echoes": "прояснить",
+    "prompt": "❓ Где нужна ясность?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:130",
+        "ref_synodal": "Пс 118:130",
+        "word": "יָאִ֗יר",
+        "gloss_en": "it gives light",
+        "occurrences": 43
+      }
+    ],
+    "replaces": "H5710"
+  },
+  "H1696": {
+    "canon": "говорить · называть",
+    "human_echoes": "сказать вслух",
+    "prompt": "❓ Что нужно назвать своим именем?",
+    "refs": [
+      {
+        "ref_mt": "Исх 33:11",
+        "ref_synodal": "Исх 33:11",
+        "word": "וְ/דִבֶּ֨ר",
+        "gloss_en": "and/ he spoke",
+        "occurrences": 1049
+      }
+    ]
+  },
+  "H2790": {
+    "canon": "молчание · удержание слова",
+    "human_echoes": "не говорить",
+    "prompt": "❓ Где молчание честнее слов?",
+    "refs": [
+      {
+        "ref_mt": "Быт 24:21",
+        "ref_synodal": "Быт 24:21",
+        "word": "מַחֲרִ֕ישׁ",
+        "gloss_en": "being silent",
+        "occurrences": 67
+      }
+    ]
+  },
+  "H5050": {
+    "canon": "освещать · прояснять",
+    "human_echoes": "высветить",
+    "prompt": "❓ Что ты боишься прояснить?",
+    "refs": [
+      {
+        "ref_mt": "Пс 18:29",
+        "ref_synodal": "Пс 17:29",
+        "word": "יַגִּ֥יהַּ",
+        "gloss_en": "he lightens",
+        "occurrences": 6
+      }
+    ],
+    "replaces": "H214"
+  },
+  "H3559": {
+    "canon": "реальность · факт",
+    "human_echoes": "принять как есть",
+    "prompt": "❓ Какой факт ты обходишь?",
+    "refs": [
+      {
+        "ref_mt": "Быт 41:32",
+        "ref_synodal": "Быт 41:32",
+        "word": "נָכ֤וֹן",
+        "gloss_en": "[is] certain",
+        "occurrences": 209
+      }
+    ],
+    "replaces": "H5717"
+  },
+  "H3824": {
+    "canon": "внутреннее решение",
+    "human_echoes": "принять решение внутри",
+    "prompt": "❓ Что ты уже решил, но не исполняешь?",
+    "refs": [
+      {
+        "ref_mt": "Втор 6:5",
+        "ref_synodal": "Втор 6:5",
+        "word": "לְבָבְ/ךָ֥",
+        "gloss_en": "heart/ your",
+        "occurrences": 230
+      }
+    ]
+  },
+  "H1540": {
+    "canon": "выход к истине",
+    "human_echoes": "выйти из иллюзии",
+    "prompt": "❓ Готов ли ты увидеть правду?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:18",
+        "ref_synodal": "Пс 118:18",
+        "word": "גַּל־",
+        "gloss_en": "uncover",
+        "occurrences": 167
+      }
+    ],
+    "replaces": "H8435"
+  },
+  "H6009": {
+    "canon": "глубина понимания",
+    "human_echoes": "пойти глубже",
+    "prompt": "❓ Что ты понимаешь не до конца?",
+    "refs": [
+      {
+        "ref_mt": "Пс 92:6",
+        "ref_synodal": "Пс 91:6",
+        "word": "עָמְק֥וּ",
+        "gloss_en": "they are deep",
+        "occurrences": 9
+      }
+    ],
+    "replaces": "H998"
+  },
+  "H6383": {
+    "canon": "предел понимания",
+    "human_echoes": "остановиться",
+    "prompt": "❓ Где нужно признать: «я не знаю»?",
+    "refs": [
+      {
+        "ref_mt": "Пс 139:6",
+        "ref_synodal": "Пс 138:6",
+        "word": "פְּלִ֣יאָֽה",
+        "gloss_en": "[is too] wonderful",
+        "occurrences": 2
+      }
+    ],
+    "replaces": "H9980"
+  }
+}

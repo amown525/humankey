@@ -1,0 +1,442 @@
+{
+  "H1870": {
+    "canon": "путь · направление · движение",
+    "human_echoes": "идти · продолжать · выбрать направление",
+    "prompt": "❓ Куда ты сейчас идёшь на самом деле?",
+    "refs": [
+      {
+        "ref_mt": "Притч 3:6",
+        "ref_synodal": "Притч 3:6",
+        "word": "דְּרָכֶ֥י/ךָ",
+        "gloss_en": "ways/ your",
+        "occurrences": 627
+      }
+    ]
+  },
+  "H734": {
+    "canon": "дорога · образ жизни · манера идти",
+    "human_echoes": "изменить стиль · замедлиться · выпрямить путь",
+    "prompt": "❓ Твой путь сейчас бережный или изнуряющий?",
+    "refs": [
+      {
+        "ref_mt": "Пс 16:11",
+        "ref_synodal": "Пс 15:11",
+        "word": "אֹ֤רַח",
+        "gloss_en": "[the] path of",
+        "occurrences": 57
+      }
+    ]
+  },
+  "H1980": {
+    "canon": "идти · двигаться · странствовать",
+    "human_echoes": "двинуться · не стоять · выйти",
+    "prompt": "❓ Где ты застрял без движения?",
+    "refs": [
+      {
+        "ref_mt": "Мих 6:8",
+        "ref_synodal": "Мих 6:8",
+        "word": "לֶ֖כֶת",
+        "gloss_en": "to walk",
+        "occurrences": 1349
+      }
+    ]
+  },
+  "H2351": {
+    "canon": "выйти наружу · покинуть",
+    "human_echoes": "выйти · отдалиться · перестать быть внутри",
+    "prompt": "❓ Откуда тебе пора выйти?",
+    "refs": [
+      {
+        "ref_mt": "Быт 24:31",
+        "ref_synodal": "Быт 24:31",
+        "word": "בַּ/ח֔וּץ",
+        "gloss_en": "on the/ outside",
+        "occurrences": 158
+      }
+    ]
+  },
+  "H310": {
+    "canon": "следовать · идти за",
+    "human_echoes": "перестать гнаться · выбрать своё",
+    "prompt": "❓ За кем или чем ты идёшь неосознанно?",
+    "refs": [
+      {
+        "ref_mt": "Руфь 1:16",
+        "ref_synodal": "Руфь 1:16",
+        "word": "מֵ/אַחֲרָ֑יִ/ךְ",
+        "gloss_en": "from/ after/ you",
+        "occurrences": 665
+      }
+    ]
+  },
+  "H268": {
+    "canon": "позади · прошлое · уже было",
+    "human_echoes": "оставить · не тащить · не возвращаться",
+    "prompt": "❓ Что ты продолжаешь нести из прошлого?",
+    "refs": [
+      {
+        "ref_mt": "Пс 139:5",
+        "ref_synodal": "Пс 138:5",
+        "word": "אָח֣וֹר",
+        "gloss_en": "back part",
+        "occurrences": 41
+      }
+    ]
+  },
+  "H314": {
+    "canon": "последний · крайний · завершающий",
+    "human_echoes": "довести · закончить · не тянуть",
+    "prompt": "❓ Что пора довести до конца?",
+    "refs": [
+      {
+        "ref_mt": "Ис 44:6",
+        "ref_synodal": "Ис 44:6",
+        "word": "אַחֲר֔וֹן",
+        "gloss_en": "[am] last",
+        "occurrences": 48
+      }
+    ]
+  },
+  "H8462": {
+    "canon": "начало · старт · точка отсчёта",
+    "human_echoes": "начать · решиться · войти",
+    "prompt": "❓ Где твоя точка начала?",
+    "refs": [
+      {
+        "ref_mt": "Быт 13:3",
+        "ref_synodal": "Быт 13:3",
+        "word": "בַּ/תְּחִלָּ֔ה",
+        "gloss_en": "at the/ beginning",
+        "occurrences": 21
+      }
+    ],
+    "replaces": "H227"
+  },
+  "H7225": {
+    "canon": "начало · главное · исходная точка",
+    "human_echoes": "взять главное · задать вектор",
+    "prompt": "❓ С чего ты действительно начинаешь?",
+    "refs": [
+      {
+        "ref_mt": "Притч 4:7",
+        "ref_synodal": "Притч 4:7",
+        "word": "רֵאשִׁ֣ית",
+        "gloss_en": "[is] first",
+        "occurrences": 49
+      }
+    ]
+  },
+  "H8582": {
+    "canon": "блуждать · сбиваться · теряться",
+    "human_echoes": "признать потерю · остановиться",
+    "prompt": "❓ Где ты потерял направление?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:176",
+        "ref_synodal": "Пс 118:176",
+        "word": "תָּעִ֗יתִי",
+        "gloss_en": "I have gone astray",
+        "occurrences": 45
+      }
+    ],
+    "replaces": "H5117"
+  },
+  "H7725": {
+    "canon": "возвращаться · поворачивать назад",
+    "human_echoes": "вернуться · пересобрать",
+    "prompt": "❓ Куда тебе нужно вернуться?",
+    "refs": [
+      {
+        "ref_mt": "Пс 90:3",
+        "ref_synodal": "Пс 89:3",
+        "word": "תָּשֵׁ֣ב",
+        "gloss_en": "you return",
+        "occurrences": 953
+      }
+    ],
+    "replaces": "H5410"
+  },
+  "H5265": {
+    "canon": "путь как процесс · течение",
+    "human_echoes": "довериться · идти шаг за шагом",
+    "prompt": "❓ Можешь ли ты идти без спешки?",
+    "refs": [
+      {
+        "ref_mt": "Быт 12:9",
+        "ref_synodal": "Быт 12:9",
+        "word": "וַ/יִּסַּ֣ע",
+        "gloss_en": "and/ he journeyed",
+        "occurrences": 140
+      }
+    ],
+    "replaces": "H5975"
+  },
+  "H6806": {
+    "canon": "ступать · делать шаг",
+    "human_echoes": "сделать первый шаг",
+    "prompt": "❓ Какой шаг возможен прямо сейчас?",
+    "refs": [
+      {
+        "ref_mt": "Притч 16:9",
+        "ref_synodal": "Притч 16:9",
+        "word": "צַעֲדֽ/וֹ",
+        "gloss_en": "step[s]/ his",
+        "occurrences": 14
+      }
+    ],
+    "replaces": "H3212"
+  },
+  "H1826": {
+    "canon": "остановиться · замереть",
+    "human_echoes": "не двигаться · выждать",
+    "prompt": "❓ Где пауза важнее движения?",
+    "refs": [
+      {
+        "ref_mt": "Пс 37:7",
+        "ref_synodal": "Пс 36:7",
+        "word": "דּ֤וֹם׀",
+        "gloss_en": "be still",
+        "occurrences": 29
+      }
+    ]
+  },
+  "H2015": {
+    "canon": "поворот · изменение курса",
+    "human_echoes": "повернуть · изменить направление",
+    "prompt": "❓ Где нужен поворот, а не упорство?",
+    "refs": [
+      {
+        "ref_mt": "Пс 30:12",
+        "ref_synodal": "Пс 29:12",
+        "word": "הָפַ֣כְתָּ",
+        "gloss_en": "you turned",
+        "occurrences": 92
+      }
+    ],
+    "replaces": "H6123"
+  },
+  "H8552": {
+    "canon": "предел пути · тупик",
+    "human_echoes": "признать конец",
+    "prompt": "❓ Где путь закончился, а ты идёшь по инерции?",
+    "refs": [
+      {
+        "ref_mt": "Втор 2:14",
+        "ref_synodal": "Втор 2:14",
+        "word": "תֹּ֨ם",
+        "gloss_en": "was finished",
+        "occurrences": 61
+      }
+    ],
+    "replaces": "H8582"
+  },
+  "H6119": {
+    "canon": "след · отпечаток",
+    "human_echoes": "оставить след · не стирать себя",
+    "prompt": "❓ Какой след ты оставляешь?",
+    "refs": [
+      {
+        "ref_mt": "Пс 77:20",
+        "ref_synodal": "Пс 76:20",
+        "word": "וְ֝/עִקְּבוֹתֶ֗י/ךָ",
+        "gloss_en": "and/ footprints/ your",
+        "occurrences": 14
+      }
+    ],
+    "replaces": "H6965"
+  },
+  "H2270": {
+    "canon": "спутник · идущий рядом",
+    "human_echoes": "выбрать спутника",
+    "prompt": "❓ Кто идёт с тобой сейчас?",
+    "refs": [
+      {
+        "ref_mt": "Пс 119:63",
+        "ref_synodal": "Пс 118:63",
+        "word": "חָבֵ֣ר",
+        "gloss_en": "[am] a companion",
+        "occurrences": 11
+      }
+    ],
+    "replaces": "H1874"
+  },
+  "H7350": {
+    "canon": "расстояние · удалённость",
+    "human_echoes": "отдалиться · не сближаться",
+    "prompt": "❓ Где тебе нужна дистанция?",
+    "refs": [
+      {
+        "ref_mt": "Притч 27:10",
+        "ref_synodal": "Притч 27:10",
+        "word": "רָחֽוֹק",
+        "gloss_en": "far away",
+        "occurrences": 84
+      }
+    ],
+    "replaces": "H5647"
+  },
+  "H8147": {
+    "canon": "перепутье · выбор",
+    "human_echoes": "выбрать · отказаться от другого",
+    "prompt": "❓ Какой выбор ты откладываешь?",
+    "refs": [
+      {
+        "ref_mt": "Иез 21:26",
+        "ref_synodal": "Иез 21:26",
+        "word": "שְׁנֵ֥י",
+        "gloss_en": "[the] two",
+        "occurrences": 646
+      }
+    ],
+    "replaces": "H5475"
+  },
+  "H4307": {
+    "canon": "цель · направление взгляда",
+    "human_echoes": "наметить · не терять из виду",
+    "prompt": "❓ Куда ты смотришь?",
+    "refs": [
+      {
+        "ref_mt": "1 Цар 20:20",
+        "ref_synodal": "1 Цар 20:20",
+        "word": "לְ/מַטָּרָֽה",
+        "gloss_en": "to/ a target",
+        "occurrences": 15
+      }
+    ],
+    "replaces": "H4136"
+  },
+  "H5437": {
+    "canon": "обход · кружение",
+    "human_echoes": "перестать ходить кругами",
+    "prompt": "❓ Где ты ходишь по кругу?",
+    "refs": [
+      {
+        "ref_mt": "Втор 2:3",
+        "ref_synodal": "Втор 2:3",
+        "word": "סֹ֖ב",
+        "gloss_en": "going round",
+        "occurrences": 152
+      }
+    ],
+    "replaces": "H5674"
+  },
+  "H4569": {
+    "canon": "переход · смена этапа",
+    "human_echoes": "перейти · не застрять",
+    "prompt": "❓ Какой этап ты не завершил?",
+    "refs": [
+      {
+        "ref_mt": "Быт 32:23",
+        "ref_synodal": "Быт 32:23",
+        "word": "מַעֲבַ֥ר",
+        "gloss_en": "[the] ford of",
+        "occurrences": 11
+      }
+    ],
+    "replaces": "H3478"
+  },
+  "H7130": {
+    "canon": "направление внутрь · возвращение к себе",
+    "human_echoes": "вернуться к себе",
+    "prompt": "❓ Где ты потерял себя по дороге?",
+    "refs": [
+      {
+        "ref_mt": "Пс 103:1",
+        "ref_synodal": "Пс 102:1",
+        "word": "קְ֝רָבַ֗/י",
+        "gloss_en": "inward parts/ my",
+        "occurrences": 220
+      }
+    ],
+    "replaces": "H567"
+  },
+  "H6963": {
+    "canon": "зов · ориентир",
+    "human_echoes": "услышать зов",
+    "prompt": "❓ Что зовёт тебя дальше?",
+    "refs": [
+      {
+        "ref_mt": "3 Цар 19:12",
+        "ref_synodal": "3 Цар 19:12",
+        "word": "ק֖וֹל",
+        "gloss_en": "a sound of",
+        "occurrences": 436
+      }
+    ]
+  },
+  "H5254": {
+    "canon": "путь как испытание",
+    "human_echoes": "выдержать · не свернуть",
+    "prompt": "❓ Что проверяет твой путь?",
+    "refs": [
+      {
+        "ref_mt": "Втор 8:2",
+        "ref_synodal": "Втор 8:2",
+        "word": "לְ/נַסֹּֽתְ/ךָ֗",
+        "gloss_en": "to/ put to [the] test/ you",
+        "occurrences": 34
+      }
+    ],
+    "replaces": "H7325"
+  },
+  "H319": {
+    "canon": "завершение пути · выход",
+    "human_echoes": "выйти · отпустить",
+    "prompt": "❓ Куда ты готов прийти?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 7:8",
+        "ref_synodal": "Еккл 7:8",
+        "word": "אַחֲרִ֥ית",
+        "gloss_en": "[the] end of",
+        "occurrences": 60
+      }
+    ],
+    "replaces": "H8435"
+  },
+  "H213": {
+    "canon": "спешить · гнаться",
+    "human_echoes": "остановить гонку",
+    "prompt": "❓ Зачем ты спешишь?",
+    "refs": [
+      {
+        "ref_mt": "Притч 19:2",
+        "ref_synodal": "Притч 19:2",
+        "word": "וְ/אָ֖ץ",
+        "gloss_en": "and/ [one who] hastens",
+        "occurrences": 10
+      }
+    ],
+    "replaces": "H5186"
+  },
+  "H5227": {
+    "canon": "прямо · без обхода",
+    "human_echoes": "сказать прямо · идти напрямую",
+    "prompt": "❓ Где ты обходишь вместо того, чтобы идти прямо?",
+    "refs": [
+      {
+        "ref_mt": "Притч 4:25",
+        "ref_synodal": "Притч 4:25",
+        "word": "לְ/נֹ֣כַח",
+        "gloss_en": "<to>/ before",
+        "occurrences": 24
+      }
+    ],
+    "replaces": "H5978"
+  },
+  "H7132": {
+    "canon": "приблизиться · подойти",
+    "human_echoes": "сблизиться · рискнуть",
+    "prompt": "❓ К чему ты готов подойти ближе?",
+    "refs": [
+      {
+        "ref_mt": "Пс 73:28",
+        "ref_synodal": "Пс 72:28",
+        "word": "קִֽרֲבַ֥ת",
+        "gloss_en": "[the] approach of",
+        "occurrences": 2
+      }
+    ],
+    "replaces": "H7121"
+  }
+}

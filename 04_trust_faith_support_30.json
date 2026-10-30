@@ -1,0 +1,452 @@
+{
+  "H982": {
+    "canon": "доверие · надёжность · опора",
+    "human_echoes": "положиться · не контролировать",
+    "prompt": "❓ Где ты можешь позволить себе доверие?",
+    "refs": [
+      {
+        "ref_mt": "Пс 37:3",
+        "ref_synodal": "Пс 36:3",
+        "word": "בְּטַ֣ח",
+        "gloss_en": "trust",
+        "occurrences": 117
+      }
+    ],
+    "replaces": "H2001"
+  },
+  "H539": {
+    "canon": "вера · уверенность · внутреннее знание",
+    "human_echoes": "верить · не сомневаться",
+    "prompt": "❓ Во что ты веришь, даже без доказательств?",
+    "refs": [
+      {
+        "ref_mt": "Быт 15:6",
+        "ref_synodal": "Быт 15:6",
+        "word": "וְ/הֶאֱמִ֖ן",
+        "gloss_en": "and/ he believed",
+        "occurrences": 100
+      }
+    ],
+    "replaces": "H2002"
+  },
+  "H4937": {
+    "canon": "опора · устойчивость · основание",
+    "human_echoes": "стоять · не шататься",
+    "prompt": "❓ На что ты сейчас опираешься?",
+    "refs": [
+      {
+        "ref_mt": "Ис 3:1",
+        "ref_synodal": "Ис 3:1",
+        "word": "מַשְׁעֵ֖ן",
+        "gloss_en": "support",
+        "occurrences": 3
+      }
+    ],
+    "replaces": "H2003"
+  },
+  "H5828": {
+    "canon": "поддержка · помощь · плечо",
+    "human_echoes": "принять помощь · не тащить одному",
+    "prompt": "❓ Где ты можешь принять поддержку?",
+    "refs": [
+      {
+        "ref_mt": "Быт 2:18",
+        "ref_synodal": "Быт 2:18",
+        "word": "עֵ֖זֶר",
+        "gloss_en": "a helper",
+        "occurrences": 21
+      }
+    ],
+    "replaces": "H2004"
+  },
+  "H530": {
+    "canon": "верность · постоянство",
+    "human_echoes": "оставаться · не предавать",
+    "prompt": "❓ Чему ты остаёшься верен?",
+    "refs": [
+      {
+        "ref_mt": "Авв 2:4",
+        "ref_synodal": "Авв 2:4",
+        "word": "בֶּ/אֱמוּנָת֥/וֹ",
+        "gloss_en": "by/ faithfulness/ his",
+        "occurrences": 49
+      }
+    ],
+    "replaces": "H2005"
+  },
+  "H3559": {
+    "canon": "надёжность · устойчивость",
+    "human_echoes": "быть опорой · держать слово",
+    "prompt": "❓ Насколько ты надёжен для себя?",
+    "refs": [
+      {
+        "ref_mt": "Пс 93:1",
+        "ref_synodal": "Пс 92:1",
+        "word": "תִּכּ֥וֹן",
+        "gloss_en": "it is established",
+        "occurrences": 209
+      }
+    ],
+    "replaces": "H2006"
+  },
+  "H5564": {
+    "canon": "внутренняя опора",
+    "human_echoes": "опереться на себя",
+    "prompt": "❓ Где твоя внутренняя опора?",
+    "refs": [
+      {
+        "ref_mt": "Пс 3:6",
+        "ref_synodal": "Пс 3:6",
+        "word": "יִסְמְכֵֽ/נִי",
+        "gloss_en": "he sustains/ me",
+        "occurrences": 47
+      }
+    ],
+    "replaces": "H2007"
+  },
+  "H898": {
+    "canon": "утрата доверия",
+    "human_echoes": "признать разрыв",
+    "prompt": "❓ Где доверие было нарушено?",
+    "refs": [
+      {
+        "ref_mt": "Пс 73:15",
+        "ref_synodal": "Пс 72:15",
+        "word": "בָגָֽדְתִּי",
+        "gloss_en": "I dealt treacherously with",
+        "occurrences": 39
+      }
+    ],
+    "replaces": "H2008"
+  },
+  "H7725": {
+    "canon": "восстановление доверия",
+    "human_echoes": "вернуть шаг за шагом",
+    "prompt": "❓ Что нужно, чтобы доверие вернулось?",
+    "refs": [
+      {
+        "ref_mt": "Пс 23:3",
+        "ref_synodal": "Пс 22:3",
+        "word": "יְשׁוֹבֵ֑ב",
+        "gloss_en": "he restores",
+        "occurrences": 953
+      }
+    ],
+    "replaces": "H2009"
+  },
+  "H127": {
+    "canon": "опора в теле",
+    "human_echoes": "почувствовать ноги · землю",
+    "prompt": "❓ Где ты чувствуешь опору в теле?",
+    "refs": [
+      {
+        "ref_mt": "Быт 2:7",
+        "ref_synodal": "Быт 2:7",
+        "word": "הָ֣/אֲדָמָ֔ה",
+        "gloss_en": "the/ ground",
+        "occurrences": 211
+      }
+    ],
+    "replaces": "H2010"
+  },
+  "H5088": {
+    "canon": "опора в слове",
+    "human_echoes": "держать обещание",
+    "prompt": "❓ Какое слово для тебя — опора?",
+    "refs": [
+      {
+        "ref_mt": "Еккл 5:3",
+        "ref_synodal": "Еккл 5:3",
+        "word": "נֶ֜דֶר",
+        "gloss_en": "a vow",
+        "occurrences": 57
+      }
+    ],
+    "replaces": "H2011"
+  },
+  "H7453": {
+    "canon": "опора в человеке",
+    "human_echoes": "довериться другому",
+    "prompt": "❓ Кому ты можешь доверять?",
+    "refs": [
+      {
+        "ref_mt": "Притч 17:17",
+        "ref_synodal": "Притч 17:17",
+        "word": "הָ/רֵ֑עַ",
+        "gloss_en": "the/ friend",
+        "occurrences": 173
+      }
+    ],
+    "replaces": "H2012"
+  },
+  "H5148": {
+    "canon": "опора в пути",
+    "human_echoes": "не сбиваться",
+    "prompt": "❓ Что удерживает тебя на пути?",
+    "refs": [
+      {
+        "ref_mt": "Пс 23:3",
+        "ref_synodal": "Пс 22:3",
+        "word": "יַֽנְחֵ֥/נִי",
+        "gloss_en": "he guides/ me",
+        "occurrences": 39
+      }
+    ],
+    "replaces": "H2013"
+  },
+  "H983": {
+    "canon": "доверие к жизни",
+    "human_echoes": "перестать бороться",
+    "prompt": "❓ Где ты можешь довериться ходу жизни?",
+    "refs": [
+      {
+        "ref_mt": "Втор 33:28",
+        "ref_synodal": "Втор 33:28",
+        "word": "בֶּ֤טַח",
+        "gloss_en": "security",
+        "occurrences": 41
+      }
+    ],
+    "replaces": "H2014"
+  },
+  "H4009": {
+    "canon": "доверие к себе",
+    "human_echoes": "верить своим решениям",
+    "prompt": "❓ Веришь ли ты себе сейчас?",
+    "refs": [
+      {
+        "ref_mt": "Притч 22:19",
+        "ref_synodal": "Притч 22:19",
+        "word": "מִבְטַחֶ֑/ךָ",
+        "gloss_en": "trust/ your",
+        "occurrences": 15
+      }
+    ],
+    "replaces": "H2015"
+  },
+  "H1827": {
+    "canon": "опора в тишине",
+    "human_echoes": "замереть · не суетиться",
+    "prompt": "❓ Где тебе нужна тишина как опора?",
+    "refs": [
+      {
+        "ref_mt": "3 Цар 19:12",
+        "ref_synodal": "3 Цар 19:12",
+        "word": "דְּמָמָ֥ה",
+        "gloss_en": "a whisper",
+        "occurrences": 3
+      }
+    ],
+    "replaces": "H2016"
+  },
+  "H974": {
+    "canon": "испытание веры",
+    "human_echoes": "выдержать · не сломаться",
+    "prompt": "❓ Что сейчас проверяет твою веру?",
+    "refs": [
+      {
+        "ref_mt": "Пс 66:10",
+        "ref_synodal": "Пс 65:10",
+        "word": "בְחַנְתָּ֥/נוּ",
+        "gloss_en": "you have tested/ us",
+        "occurrences": 28
+      }
+    ],
+    "replaces": "H2017"
+  },
+  "H724": {
+    "canon": "доверие после боли",
+    "human_echoes": "открыться заново",
+    "prompt": "❓ Где ты боишься доверять после боли?",
+    "refs": [
+      {
+        "ref_mt": "Иер 30:17",
+        "ref_synodal": "Иер 30:17",
+        "word": "אֲרֻכָ֥ה",
+        "gloss_en": "healing",
+        "occurrences": 6
+      }
+    ],
+    "replaces": "H2018"
+  },
+  "H2142": {
+    "canon": "опора в смысле",
+    "human_echoes": "помнить зачем",
+    "prompt": "❓ Какой смысл тебя удерживает?",
+    "refs": [
+      {
+        "ref_mt": "Втор 8:2",
+        "ref_synodal": "Втор 8:2",
+        "word": "וְ/זָכַרְתָּ֣",
+        "gloss_en": "and/ you will remember",
+        "occurrences": 223
+      }
+    ],
+    "replaces": "H2019"
+  },
+  "H2620": {
+    "canon": "вера без гарантий",
+    "human_echoes": "идти без страховки",
+    "prompt": "❓ Где ты идёшь без гарантий?",
+    "refs": [
+      {
+        "ref_mt": "Пс 2:12",
+        "ref_synodal": "Пс 2:12",
+        "word": "ח֥וֹסֵי",
+        "gloss_en": "[those who] seek refuge",
+        "occurrences": 36
+      }
+    ],
+    "replaces": "H2020"
+  },
+  "H7667": {
+    "canon": "сломанная опора",
+    "human_echoes": "признать потерю",
+    "prompt": "❓ Какая опора больше не работает?",
+    "refs": [
+      {
+        "ref_mt": "Пс 60:4",
+        "ref_synodal": "Пс 59:4",
+        "word": "שְׁבָרֶ֣י/הָ",
+        "gloss_en": "fractures/ its",
+        "occurrences": 42
+      }
+    ],
+    "replaces": "H2021"
+  },
+  "H1245": {
+    "canon": "поиск опоры",
+    "human_echoes": "искать новое основание",
+    "prompt": "❓ Где ты ищешь новую опору?",
+    "refs": [
+      {
+        "ref_mt": "Пс 27:8",
+        "ref_synodal": "Пс 26:8",
+        "word": "בַּקְּשׁ֣וּ",
+        "gloss_en": "seek",
+        "occurrences": 215
+      }
+    ],
+    "replaces": "H2022"
+  },
+  "H4639": {
+    "canon": "опора в действии",
+    "human_echoes": "делать шаг",
+    "prompt": "❓ Какое действие вернёт устойчивость?",
+    "refs": [
+      {
+        "ref_mt": "Пс 90:17",
+        "ref_synodal": "Пс 89:17",
+        "word": "וּ/מַעֲשֵׂ֣ה",
+        "gloss_en": "and/ [the] work of",
+        "occurrences": 222
+      }
+    ],
+    "replaces": "H2023"
+  },
+  "H5254": {
+    "canon": "доверие как риск",
+    "human_echoes": "рискнуть открытостью",
+    "prompt": "❓ Где доверие — риск, но нужный?",
+    "refs": [
+      {
+        "ref_mt": "Втор 4:34",
+        "ref_synodal": "Втор 4:34",
+        "word": "הֲ/נִסָּ֣ה",
+        "gloss_en": "¿/ has it attempted",
+        "occurrences": 34
+      }
+    ],
+    "replaces": "H2024"
+  },
+  "H8548": {
+    "canon": "опора в ритме",
+    "human_echoes": "держать темп",
+    "prompt": "❓ Какой ритм тебя поддерживает?",
+    "refs": [
+      {
+        "ref_mt": "Пс 16:8",
+        "ref_synodal": "Пс 15:8",
+        "word": "תָמִ֑יד",
+        "gloss_en": "continually",
+        "occurrences": 103
+      }
+    ],
+    "replaces": "H2025"
+  },
+  "H8252": {
+    "canon": "тихая вера",
+    "human_echoes": "знать без слов",
+    "prompt": "❓ Что ты знаешь без доказательств?",
+    "refs": [
+      {
+        "ref_mt": "Ис 30:15",
+        "ref_synodal": "Ис 30:15",
+        "word": "בְּ/הַשְׁקֵט֙",
+        "gloss_en": "in/ being quiet",
+        "occurrences": 41
+      }
+    ],
+    "replaces": "H2026"
+  },
+  "H2706": {
+    "canon": "опора в привычном",
+    "human_echoes": "возврат к простому",
+    "prompt": "❓ Что из привычного тебя держит?",
+    "refs": [
+      {
+        "ref_mt": "Притч 30:8",
+        "ref_synodal": "Притч 30:8",
+        "word": "חֻקִּֽ/י",
+        "gloss_en": "allotment/ my",
+        "occurrences": 124
+      }
+    ],
+    "replaces": "H2027"
+  },
+  "H3176": {
+    "canon": "доверие к процессу",
+    "human_echoes": "не торопить",
+    "prompt": "❓ Где процессу нужно время?",
+    "refs": [
+      {
+        "ref_mt": "Пс 130:5",
+        "ref_synodal": "Пс 129:5",
+        "word": "הוֹחָֽלְתִּי",
+        "gloss_en": "I hope",
+        "occurrences": 41
+      }
+    ],
+    "replaces": "H2028"
+  },
+  "H6965": {
+    "canon": "опора в выборе",
+    "human_echoes": "стоять за решением",
+    "prompt": "❓ За каким выбором ты готов стоять?",
+    "refs": [
+      {
+        "ref_mt": "Пс 20:9",
+        "ref_synodal": "Пс 19:9",
+        "word": "קַּ֝֗מְנוּ",
+        "gloss_en": "we arise",
+        "occurrences": 596
+      }
+    ],
+    "replaces": "H2029"
+  },
+  "H6440": {
+    "canon": "опора в присутствии",
+    "human_echoes": "быть здесь",
+    "prompt": "❓ Где твоё присутствие — главная опора?",
+    "refs": [
+      {
+        "ref_mt": "Исх 33:14",
+        "ref_synodal": "Исх 33:14",
+        "word": "פָּנַ֥/י",
+        "gloss_en": "presence/ my",
+        "occurrences": 1891
+      }
+    ],
+    "replaces": "H2030"
+  }
+}
